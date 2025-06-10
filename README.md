@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"> Hey there 👋</h1>
 
 ###
 
-<p align="left">Hello, I am CS Grad from UMN. I am passionate about software and creativity through technology.<br>I am always keen on learning, and strive to continue building projects and share them here for years to come!</p>
+<p align="left">Hello! I am Mahmoud Barbary, a recent CS Grad from UMN. I am passionate about software and creativity through technology.<br>I am always keen on learning, and strive to continue building projects and share them here for years to come!</p>
 
 ###
 
