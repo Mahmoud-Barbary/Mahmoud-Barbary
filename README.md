@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there 👋</h1>
+<h1 align="left">Hey there 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ My project highlights include ✨<br><br>⚔️A 2D fighting game in Godot I am currently working on.<br><br>🩺 Medhat, The Medical Chatbot App.<br><br>♟️ Chess Game, built from scratch.<br><br>🃏 Solitaire Game, built from scratch</p>
+<p align="left">✨ My project highlights include ✨<br><br>- ⚔️A 2D fighting game in Godot I am currently working on.<br><br>- 🩺 Medhat, The Medical Chatbot App.<br><br>- ♟️ Chess Game, built from scratch.<br><br>- 🃏 Solitaire Game, built from scratch</p>
 
 ###
 
@@ -43,8 +43,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/mahmoud-ibrahim-barbary/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mahmoud.ibrahim.barbary@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
